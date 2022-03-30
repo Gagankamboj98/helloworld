@@ -34,7 +34,7 @@
                                             <label for="validationCustom01">Title1</label>
                                           <input  name="title1" class="form-control" id="validationCustom002"> 
                                              <div class="valid-feedback">
-                                                Looks good!
+                                                Looks well!
                                             </div>
                                         </div>
 										</div>
