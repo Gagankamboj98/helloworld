@@ -41,7 +41,7 @@
 										<br>
 										<div class="form-row">
                                         <div class="col-md-12 mb-12">
-                                            <label for="validationCustom02">Content</label>
+                                            <label for="validationCustom02">Cont</label>
 											<textarea cols="100" rows="5" name="content" class="form-control" id="validationCustom022"> </textarea>
                                              <div class="valid-feedback">
                                                 Looks good!
